@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <clocale>
 
-
+//Создание структуры хранящей индекс и значение элемента массива
 struct IndexedElement {
     double value;
     int index;
